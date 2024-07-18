@@ -1,0 +1,7 @@
+#Para criar uma nova branch, se usa o comando -> git checkout -b nomebranch
+
+-> para mesclas as alterações com  a branch principal se usa o comando -> git merge nomebranch_amesclar
+
+-> Comando para excluir a branch ->> git branch -d nomebranch
+
+-> comando para visualizar todas as branhs existentes ->> git branch
