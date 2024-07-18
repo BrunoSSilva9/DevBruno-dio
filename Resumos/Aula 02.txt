@@ -1,0 +1,3 @@
+Comandos GitHub :
+
+Clicando no atalho "." é aberto um editor no style do vs-code na web para editar os arquivos .md por exemplo e demais 

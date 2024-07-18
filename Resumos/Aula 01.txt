@@ -1,0 +1,6 @@
+Comandos git :
+
+git push -m commit "" -> para subir as alterações do repositório local para o remoto
+
+git pull -> para descer as alterações do repositório remoto para o local
+
